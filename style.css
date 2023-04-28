@@ -1,0 +1,18 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+h1{
+    margin: 0px;
+    font-size: 1000%;
+    text-align: center;
+}
+
+article{
+    display: grid;
+    grid-template-columns: 202px 202px 202px;
+}
